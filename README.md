@@ -11,14 +11,22 @@ Aprendizaje Automático (ML), Inteligencia Artificial (IA) y Python.
 
 
 🔭 Actualmente estoy aprendiendo fundamentos de programación y diferentes lenguajes.
+
 📘 Fundamentos de internet
+
 📚 Fundamentos de programación
+
 🌐 Fundamentos de desarrollo web
+
 📌 Fundamentos de GIT y GITHUB
+
 🐍 Conceptos básicos de Python
+
 💻 Programando en Python algoritmos
+
 🎯 Programación orientada a objetos en Python
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me 👨‍💼:
 
@@ -28,12 +36,19 @@ I'm excited to continue growing in these technologies! 🚀
 
 
 🔭 Currently, I'm learning programming fundamentals and various languages.
+
 📘 Internet Fundamentals
+
 📚 Programming Fundamentals
+
 🌐 Web Development Fundamentals
+
 📌 GIT and GITHUB Fundamentals
+
 🐍 Basic Python Concepts
+
 💻 Coding algorithms in Python
+
 🎯 Object-oriented programming in Python
 
 
@@ -46,5 +61,5 @@ I'm excited to continue growing in these technologies! 🚀
   <a href="https://www.instagram.com/edgarsntn?igsh=aDh6ejcxdm1xcDg2"><img alt="Instagram" title="Edgar Montesdeoca Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 
-  
+  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
